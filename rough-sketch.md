@@ -19,7 +19,7 @@ Assumptions
     Total prerequisite revenue for each cohort:
         ( \frac{30}{3} \times 0 + \frac{30}{3} \times 500 + \frac{30}{3} \times 1500 = $20,000 )
 
-    The Multiverse School captures this as revenue and uses it as initial bootstrapping cash, and for paying professors to get enough "robot-ready" learners together to stock the program.
+    The Multiverse School captures this as revenue and uses it as initial bootstrapping cash, and for paying professors to get enough "robot-ready" learners together to stock the program. 
 
     Class Progression:
     Every student completes classes up to 301:
