@@ -1,0 +1,6 @@
+- https://www.grants.gov/search-grants
+- https://www.grants.gov/search-results-detail/351273
+- https://new.nsf.gov/funding/opportunities/m3x-mind-machine-motor-nexus
+- video -- https://new.nsf.gov/funding/opportunities/m3x-mind-machine-motor-nexus/announcements/105081\
+	- guy says "go ahead and email us", as of April 2024, so, might still be worth reaching out
+- https://apply07.grants.gov/apply/opportunities/instructions/PKG00283995-instructions.pdf
